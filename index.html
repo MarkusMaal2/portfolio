@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Page metadata -->
+        <meta charset="utf-8">
+        <title>E-portfolio - General info</title>
+		<meta name="description" content="Markus Maal's personal e-portfolio" >
+		<meta name="keywords" content="introduction, interests, education" >
+		<meta name="author" content="Markus Maal" >
+		<meta name="viewport" content="width=device-width, initial-scale=1" >
+		<!-- Set favicon -->
+        <link rel="icon" type="image/x-icon" href="/veebiarendus/portfoolio/favicon.ico">
+		<!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+		<!-- My CSS -->
+		<link rel="stylesheet" type="text/css" href="css/style.css" >
+		<!-- Fontawesome -->
+	    <script src="https://kit.fontawesome.com/d325d04eee.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <!-- Accessible 1/2-tab shortcuts -->
+        <a href="#page_main" class="accessible-pointer" tabindex="1">Jump to main content</a>
+        <a href="#navbar" class="accessible-pointer" tabindex="2">Jump to navigation</a>
+        <!-- Head of page -->
+        <header class="top">
+            <!-- Social links -->
+            <nav class="navbar navbar-dark bg-white navbar-expand-lg" id="top-nav">
+    			<div id="socialNav">
+    				<ul class="navbar-nav">
+                        <li class="nav-item"><a id="SocialFB" title="Facebook profile" target="_blank" class="nav-link" href="https://www.facebook.com/profile.php?id=100007869184738"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li class="nav-item"><a id="SocialYT" title="YouTube channel" target="_blank" class="nav-link" href="https://www.youtube.com/@markusTegelane"><i class="fa-brands fa-youtube"></i></a></li>
+                        <li class="nav-item"><a id="SocialTwitter" title="Twitter account" target="_blank" class="nav-link" href="https://www.twitter.com/@markustegelane"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li class="nav-item"><a id="SocialGitHub" title="GitHub repositories" target="_blank" class="nav-link" href="https://github.com/MarkusMaal?tab=repositories"><i class="fa-brands fa-github"></i></a></li>
+                    </ul>
+                </div>
+            </nav>
+            <!-- Logo -->
+            <div class="col-md-12 bg-white" id="Logo">
+                <a href="index.html"><img title="Markus Maal" src="img/logo_joontega_v5.svg" alt="Markus Maal logo"></a>
+            </div>
+            <!-- Primary navigation bar -->
+
+            <nav id="navbar" class="navbar navbar-expand-lg navbar-light">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto my-4">
+                  <li class="nav-item active">
+                    <a class="row mx-1 btn btn-primary col-sm" href="index.html">General info</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="row mx-1 btn btn-outline-primary col-sm" href="education.html">Education</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="row mx-1 btn btn-outline-primary col-sm" href="practice.html">Projects</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="row mx-1 btn btn-outline-primary col-sm" href="contact.html">Contact</a>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+            <!-- Add a line at the end of the header -->
+            <hr class="my-0 col-md-12 bg-white">
+        </header>
+        <!-- Carousel -->
+        <section id="carousel">
+            <div class="h-50 my-5 col">
+    			<div id="carouselIndicators" class="carousel slide" data-bs-ride="carousel">
+    			<div class="carousel-indicators">
+    				<button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    				<button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    				<!--<button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    				<button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>-->
+    				<button type="button" data-bs-target="#carouselIndicators" data-bs-slide-to="2" aria-label="Slide 5"></button>
+    			</div>
+    			  <div class="carousel-inner">
+    				<div class="carousel-item active" data-bs-interval="5000">
+    				  <div class="foreground"><img class="gradient d-block w-100" src="img/index_html.png" alt="Source for index.html"></div>
+    				  <div class="carousel-caption d-none d-md-block">
+    					<h5>Welcome!</h5>
+    					<p>This is my personal e-portfolio. Feel free to browse around!</p>
+    				  </div>
+    				</div>
+    				<!--<div class="carousel-item" data-bs-interval="5000">
+    				  <img class="gradient d-block w-100" src="img/skills.png" alt="My skill slide">
+    				  <div class="carousel-caption d-none d-md-block">
+    					<h5>My skills</h5>
+    					<p>I have several skills, which I have acquired by self-learning in spare time or from courses.<br/>Check the education page to find out more.</p>
+    				  </div>
+    				</div>
+    				<div class="carousel-item" data-bs-interval="5000">
+    				  <img class="gradient d-block w-100" src="img/bluescreen_zoomed.jpg" alt="Project slide">
+    				  <div class="carousel-caption d-none d-md-block">
+    					<h5>Projects</h5>
+    					<p>This is not a real blue screen. Check the practical experience page to find out why...</p>
+    				  </div>
+    				</div>-->
+    				<div class="carousel-item" data-bs-interval="5000">
+    				  <img class="gradient d-block w-100" src="img/socials.png" alt="My social accounts">
+    				  <div class="carousel-caption d-none d-md-block">
+    					<h5>Check out my socials</h5>
+    					<p>I occasionally post some cool stuff.</p>
+    				  </div>
+    				</div>
+    				<div class="carousel-item" data-bs-interval="5000">
+    				  <img class="gradient d-block w-100" src="img/tass2_.png" alt="Contact slide">
+    				  <div class="carousel-caption d-none d-md-block">
+    					<h5>Get in touch</h5>
+    					<p>You can find my phone number, email, and a functional contact form on the contact page!</p>
+    				  </div>
+    				</div>
+    			  </div>
+    			  <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
+    				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    				<span class="visually-hidden">Previous</span>
+    			  </button>
+    			  <button class="carousel-control-next" type="button" data-bs-target="#carouselIndicators" data-bs-slide="next">
+    				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+    				<span class="visually-hidden">Next</span>
+    			  </button>
+    			</div>
+    		</div> 
+		</section>
+        <!-- START OF Main page -->
+        <div id="page_main">
+            <section id="main">
+                <div class="row w-500">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3">
+                        <img style="width: 100%;" class="mx-auto row" src="img/8colors.png" alt="8-color portrait" >
+                    </div>
+                    <div class="col-md-5">
+                        <h2>About Me</h2>
+                        <p>My name is Markus Maal and <span id="age"><!--I’m 21 years old-->I was born in 2001</span>. I am studying to become a junior software developer (web specialist) at Tartu Vocational College. I obtained my basic education at the Puhja School for 9 years and then studied at Nõo Reaalgümnaasium for 3 years.</p>
+                        <p>In my free time, I like messing around with computer software, making videos, and programming software tools to solve problems with my computer or just creating small and fun games.</p>
+                        <p>I'm dutiful, hard-working, eager to learn new things, cheerful, determined to solve problems, helpful to others, friendly, and resourceful</p>
+                        <p>Curriculum Vitae:&nbsp;
+                        <a class="btn btn-primary" target="_blank" href="CV_en.pdf">English</a>
+                        <a class="btn btn-primary" target="_blank" href="CV.pdf">Estonian</a></p>
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
+                <hr>
+                <!--<div class="row w-500 mt-2 text-center">
+                    <h3>CV</h3>
+                </div>
+                <div class="row w-500 mt-3">
+                   <div class="col-md-8 mx-auto">
+        			  <video style="width:100%;" controls>
+        			    <source src="img/cv_screenshot" type="video/webm">
+        		      </video>
+			      </div>
+                </div>-->
+            </section>
+        </div>
+        <!-- END OF Main page -->
+        
+        <!-- Custom JS -->
+        <script src="app/app.js"></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", (e) => {
+                // Function from StackOverflow
+                // https://stackoverflow.com/questions/4060004/calculate-age-given-the-birth-date-in-the-format-yyyymmdd
+                function getAge(dateString) {
+                    var today = new Date();
+                    var birthDate = new Date(dateString);
+                    var age = today.getFullYear() - birthDate.getFullYear();
+                    var m = today.getMonth() - birthDate.getMonth();
+                    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+                        age--;
+                    }
+                    return age;
+                }
+                document.querySelector("#age").innerText = "I'm " + getAge("2001-06-19") + " years old";
+            })
+        </script>
+        <!-- Page footer -->
+        <footer class="text-white py-5">
+            &copy; <script>document.write(new Date().getFullYear());</script><noscript>2023</noscript> Markus Maal<br>
+            All rights reserved
+        </footer>
+        <!-- Bootstrappy Bootstrap stuff -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    </body>
+</html>

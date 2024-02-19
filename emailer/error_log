@@ -1,0 +1,754 @@
+[02-Mar-2023 15:59:09 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 15:59:09 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 15:59:09 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 15:59:09 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 88
+[02-Mar-2023 15:59:09 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 15:59:09 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 16:00:21 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:00:21 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:00:21 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:00:22 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 88
+[02-Mar-2023 16:00:22 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 16:00:22 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 16:01:08 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:01:08 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:01:08 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:01:08 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 88
+[02-Mar-2023 16:01:08 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 16:01:08 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 16:04:04 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:04:04 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:04:04 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 80
+[02-Mar-2023 16:04:04 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 88
+[02-Mar-2023 16:04:04 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 16:04:04 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 90
+[02-Mar-2023 16:05:26 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 77
+[02-Mar-2023 16:06:01 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 77
+[02-Mar-2023 16:07:22 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 77
+[02-Mar-2023 16:07:49 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[02-Mar-2023 16:07:58 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[02-Mar-2023 16:08:53 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 84
+[02-Mar-2023 16:09:08 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 84
+[02-Mar-2023 16:10:32 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 84
+[02-Mar-2023 16:12:13 UTC] PHP Warning:  Undefined array key "variables_order" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 2
+[02-Mar-2023 16:14:00 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[02-Mar-2023 16:15:27 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 2
+[02-Mar-2023 16:15:43 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 2
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  include(/veebiarendus/portfoolio/404.php): Failed to open stream: No such file or directory in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  include(): Failed opening '/veebiarendus/portfoolio/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 81
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 81
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 81
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 89
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 91
+[22-Mar-2023 08:50:00 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 91
+[22-Mar-2023 08:50:12 UTC] PHP Warning:  include(/veebiarendus/portfoolio/404.php): Failed to open stream: No such file or directory in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 08:50:12 UTC] PHP Warning:  include(): Failed opening '/veebiarendus/portfoolio/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 08:50:29 UTC] PHP Warning:  include(/home/maalmarkus/public_html/veebiarendus/portfoolio/404.php): Failed to open stream: No such file or directory in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 08:50:29 UTC] PHP Warning:  include(): Failed opening '/home/maalmarkus/public_html/veebiarendus/portfoolio/404.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 08:50:53 UTC] PHP Warning:  include(/home/maalmarkus/public_html/403.php): Failed to open stream: No such file or directory in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 08:50:53 UTC] PHP Warning:  include(): Failed opening '/home/maalmarkus/public_html/403.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 4
+[22-Mar-2023 09:13:19 UTC] PHP Fatal error:  Uncaught Error: Class "BadRequestHttpException" not found in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 3
+[22-Mar-2023 09:14:04 UTC] PHP Fatal error:  Uncaught Error: Class "JsonResponse" not found in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 3
+[06-Dec-2023 13:08:08 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[06-Dec-2023 13:08:08 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[06-Dec-2023 13:08:11 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:25:52 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:25:53 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:25:54 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:25:55 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:25:55 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:25:55 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:26:31 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:26:32 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:26:34 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:26:34 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:26:34 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:26:34 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:27:16 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:27:16 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:27:17 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:27:17 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:27:18 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:27:19 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:48:55 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:48:55 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:48:56 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:48:57 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:48:58 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:48:58 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:14 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:15 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:15 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:16 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:16 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:17 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:17 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:18 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:36 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:37 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:37 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:38 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:39 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:39 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:40 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:49:40 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:00 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:00 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:01 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:01 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:01 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:02 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:03 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:50:03 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:52:52 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[06-Dec-2023 15:52:52 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[06-Dec-2023 15:52:53 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[06-Dec-2023 15:52:54 UTC] PHP Fatal error:  Uncaught TypeError: mail(): Argument #1 ($to) must be of type string, array given in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:97
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(97): mail(Array, 'You sent a mess...', 'The message was...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 97
+[06-Dec-2023 15:52:54 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[06-Dec-2023 15:52:55 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[06-Dec-2023 15:53:20 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[06-Dec-2023 15:53:20 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[06-Dec-2023 15:53:20 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[06-Dec-2023 15:53:21 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 91
+[06-Dec-2023 15:53:21 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[06-Dec-2023 15:53:21 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[06-Dec-2023 15:58:14 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:58:21 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:58:30 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:58:41 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:58:45 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:58:50 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:58:55 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:58:59 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:59:05 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:59:11 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:59:16 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[06-Dec-2023 15:59:20 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 07:52:09 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[08-Dec-2023 07:52:09 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[08-Dec-2023 07:52:11 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 09:56:15 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 09:58:13 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 09:58:13 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 09:58:13 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:01:21 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:02:49 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:02:49 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:02:50 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:08:05 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:08:19 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:08:19 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:08:19 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:17:43 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:17:43 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:17:45 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:17:45 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:17:47 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:17:48 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:05 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:05 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:05 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:06 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:06 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:07 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:07 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:07 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:22 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:23 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:23 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:23 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:24 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:24 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:24 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:25 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:39 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:39 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:39 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:39 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:40 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:40 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:40 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:18:41 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:20:20 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[08-Dec-2023 10:20:20 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[08-Dec-2023 10:20:21 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[08-Dec-2023 10:20:21 UTC] PHP Fatal error:  Uncaught TypeError: mail(): Argument #1 ($to) must be of type string, array given in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:97
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(97): mail(Array, 'You sent a mess...', 'The message was...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 97
+[08-Dec-2023 10:20:22 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[08-Dec-2023 10:20:22 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[08-Dec-2023 10:20:37 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[08-Dec-2023 10:20:37 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[08-Dec-2023 10:20:37 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[08-Dec-2023 10:20:37 UTC] PHP Warning:  Undefined array key "cMail" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 91
+[08-Dec-2023 10:20:37 UTC] PHP Warning:  Undefined array key "cName" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[08-Dec-2023 10:20:37 UTC] PHP Warning:  Undefined array key "cMessage" in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[08-Dec-2023 10:23:47 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:23:52 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:23:57 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:15 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:18 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:21 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:24 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:27 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:30 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:32 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:35 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[08-Dec-2023 10:24:38 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:19:52 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:21:46 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:23:06 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:24:00 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:24:24 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:25:54 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[24-Dec-2023 15:25:54 UTC] PHP Fatal error:  Uncaught TypeError: mail(): Argument #1 ($to) must be of type string, array given in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:97
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(97): mail(Array, 'You sent a mess...', 'The message was...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 97
+[24-Dec-2023 15:26:09 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:26:46 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[24-Dec-2023 15:26:46 UTC] PHP Fatal error:  Uncaught TypeError: mail(): Argument #1 ($to) must be of type string, array given in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:97
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(97): mail(Array, 'You sent a mess...', 'The message was...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 97
+[24-Dec-2023 15:27:19 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:30:33 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[24-Dec-2023 15:30:33 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[24-Dec-2023 15:31:20 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[24-Dec-2023 15:31:20 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[24-Dec-2023 15:32:33 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:34:04 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:34:50 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[24-Dec-2023 15:34:50 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[24-Dec-2023 15:35:47 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 83
+[24-Dec-2023 15:35:47 UTC] PHP Warning:  Array to string conversion in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 93
+[24-Dec-2023 15:35:55 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:37:03 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
+[24-Dec-2023 15:38:56 UTC] PHP Fatal error:  Uncaught ValueError: mail(): Argument #3 ($message) must not contain any null bytes in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php:87
+Stack trace:
+#0 /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php(87): mail('markus.maal@voc...', 'Uus s\xC3\xB5num e-po...', 'Teile saadeti s...', 'From:markusmaal...')
+#1 {main}
+  thrown in /home/maalmarkus/public_html/veebiarendus/portfoolio/emailer/index.php on line 87
